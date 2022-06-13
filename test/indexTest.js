@@ -16,9 +16,9 @@ describe('index.js', function () {
       expect(returnLastTwoDrivers(['Antonia', 'Nuru', 'Amari', 'Mo'])).to.eql(['Amari', 'Mo']);
     });
   });
-
+  
   describe('selectingDrivers', function () {
-    it('has the `returnFirstTwoDrivers` function to as its first element', function () {
+    it('has the `` function to as its first element', function () {
       expect(selectingDrivers[0]).to.eql(returnFirstTwoDrivers);
     });
 

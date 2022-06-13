@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-08T19:28:52.954Z",
-    "end": "2022-06-08T19:28:53.617Z",
-    "duration": 663
+    "start": "2022-06-13T20:18:07.394Z",
+    "end": "2022-06-13T20:18:08.066Z",
+    "duration": 672
   },
   "tests": [
     {
@@ -23,16 +23,16 @@
       "title": "should return an array of the last two drivers",
       "fullTitle": "index.js returnLastTwoDrivers() should return an array of the last two drivers",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
     },
     {
-      "title": "has the `returnFirstTwoDrivers` function to as its first element",
-      "fullTitle": "index.js selectingDrivers has the `returnFirstTwoDrivers` function to as its first element",
+      "title": "has the `` function to as its first element",
+      "fullTitle": "index.js selectingDrivers has the `` function to as its first element",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -68,7 +68,7 @@
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -77,7 +77,7 @@
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -86,7 +86,7 @@
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -104,7 +104,7 @@
       "title": "triples fares",
       "fullTitle": "index.js fareTripler() triples fares",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -113,7 +113,7 @@
       "title": "returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -144,16 +144,16 @@
       "title": "should return an array of the last two drivers",
       "fullTitle": "index.js returnLastTwoDrivers() should return an array of the last two drivers",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
     },
     {
-      "title": "has the `returnFirstTwoDrivers` function to as its first element",
-      "fullTitle": "index.js selectingDrivers has the `returnFirstTwoDrivers` function to as its first element",
+      "title": "has the `` function to as its first element",
+      "fullTitle": "index.js selectingDrivers has the `` function to as its first element",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -189,7 +189,7 @@
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -198,7 +198,7 @@
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -207,7 +207,7 @@
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -225,7 +225,7 @@
       "title": "triples fares",
       "fullTitle": "index.js fareTripler() triples fares",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -234,7 +234,7 @@
       "title": "returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "file": "/home/zamzam/Desktop/Development/code/phase1/phase-1-first-class-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
